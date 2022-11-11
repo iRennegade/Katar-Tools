@@ -11,5 +11,7 @@ chmod +x $HOME/.katar/katar-shellcode.sh
 
 echo "alias katar-shellcode='$HOME/.katar/katar-shellcode.sh'" >> $HOME/.bashrc
 source $HOME/.bashrc
+echo "alias katar-shellcode='$HOME/.katar/katar-shellcode.sh'" >> $HOME/.profile
+source $HOME/.profile
 
 echo "Sucessfully installed"
