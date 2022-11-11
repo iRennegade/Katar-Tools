@@ -7,7 +7,7 @@ A group of custom tools to help developers
 - Port Scanner
 
 ## Installation
-`curl https://raw.githubusercontent.com/iRennegade/Katar-Tools/main/README.md > /tmp/install.sh; bash /tmp/install.sh`;
+```curl https://raw.githubusercontent.com/iRennegade/Katar-Tools/main/install.sh > /tmp/install.sh; bash /tmp/install.sh```
 
 ## Community
 If you want new tools request it.
